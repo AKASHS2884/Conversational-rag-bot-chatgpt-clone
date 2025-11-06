@@ -31,7 +31,7 @@ A beautiful, memory-enabled conversational AI chatbot built with Streamlit and N
 ## 🚀 Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/conversational-ai-chatbot.git
+git clone https://github.com/AKASHS2884/Conversational-rag-bot-chatgpt-clone.git
 cd conversational-ai-chatbot
 
 text
@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check existing [Issues](https://github.com/YOUR_USERNAME/conversational-ai-chatbot/issues)
+1. Check existing [Issues](https://github.com/AKASHS2884/Conversational-rag-bot-chatgpt-clone.git)
 2. Create a new issue with detailed information
 3. Reach out via LinkedIn
 
